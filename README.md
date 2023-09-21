@@ -1,21 +1,29 @@
 # <h1> Data analyst and engineering projects </h1>
 
+#
+
 ## Stages focused
 
 <p>
-Data analysis
-Data pipelines
-Data Warehouse
-Database querying
+<p>Data analysis</p>
+
+<p>Data pipelines</p>
+
+<p>Data Warehouse</p>
+
+<p>Database querying</p>
+
 </p>
+
+#
 
 ## Technologies
 
 <div style="display:flex; margin: auto;">
-<img src="https://img.shields.io/badge/dynamic/json?logo=sql&label=sql&labelColor=orange"/>
-<img src="https://img.shields.io/badge/dynamic/json?logo=python&labelColor=green"/>
-<img src=>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+#
 
 ### Platforms
 
