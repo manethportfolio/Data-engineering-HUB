@@ -1,7 +1,5 @@
 # <h1> Data analyst and engineering projects </h1>
 
-#
-
 ## Stages focused
 
 <p>
