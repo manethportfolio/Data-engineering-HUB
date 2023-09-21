@@ -1,18 +1,30 @@
-# Data-HUB
+# <h1> Data analyst and engineering projects </h1>
 
-The following repo will elaborate the data adventures from primal to the advanced work and how it all progressed. 
-Its expected to be an accumalation of data based projects focused on each layer of industry level matched models. Alot of 
-these projects will be cloud platform integrated as well.
+## Stages focused
 
-# The journey and the expected milestones 
+<p>
+Data analysis
+Data pipelines
+Data Warehouse
+Database querying
+</p>
 
+## Technologies
 
-# Tools used 
+<div style="display:flex; margin: auto;">
+<img src="https://img.shields.io/badge/dynamic/json?logo=sql&label=sql&labelColor=orange"/>
+<img src="https://img.shields.io/badge/dynamic/json?logo=python&labelColor=green"/>
+<img src=>
+</div>
 
+### Platforms
 
-# Model diagrams by project 
+<div style="display:flex; margin: auto;">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+</div>
 
+### Model diagrams by project
 
-
-
-
+<p>
+Modelled sketches
+</p>
